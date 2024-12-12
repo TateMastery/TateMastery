@@ -31,4 +31,9 @@ I'm a developer with experience in **HTML**, **CSS**, **JavaScript**, and **Reac
 
 ## 🌱 Мои интересы:
 - ![English](https://img.shields.io/badge/Learning%20English-0080FF?style=flat&logo=language&logoColor=white) **Изучение английского языка**
-- ![Sports](https://img.shie
+- ![Sports](https://img.shields.io/badge/Sports-009688?style=flat&logo=fitness&logoColor=white) **Спорт**
+- ![Trading](https://img.shields.io/badge/Trading-FF9800?style=flat&logo=tradingview&logoColor=white) **Трейдинг**
+
+## 📍 Мой проект:
+- [Мое портфолио](https://phantomhacker219.github.io/Portfolio/)
+
