@@ -1,16 +1,35 @@
-## Hi there 👋
+# Привет, я Жавохир 👋
 
-<!--
-**PhantomHacker219/phantomhacker219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я разработчик с опытом работы с **HTML**, **CSS**, **JavaScript** и **React JS**. Я создаю динамичные веб-приложения и стремлюсь развиваться в области frontend-разработки.
 
-Here are some ideas to get you started:
+## 💼 Мои навыки:
+- **HTML**, **CSS**, **JavaScript**
+- **React JS**
+- Адаптивный дизайн
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌱 Мои интересы:
+- Изучение английского языка
+- Спорт
+- Трейдинг
+
+## 📍 Мой проект:
+- [Моё портфолио](https://phantomhacker219.github.io/Portfolio/)
+
+
+# Hi, I'm Javokhir 👋
+
+I'm a developer with experience in **HTML**, **CSS**, **JavaScript**, and **React JS**. I create dynamic web applications and strive to improve my skills in frontend development.
+
+## 💼 My Skills:
+- **HTML**, **CSS**, **JavaScript**
+- **React JS**
+- Responsive design
+
+## 🌱 My Interests:
+- Learning English
+- Sports
+- Trading
+
+## 📍 My Project:
+- [My Portfolio](https://phantomhacker219.github.io/Portfolio/)
