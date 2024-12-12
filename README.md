@@ -17,7 +17,7 @@
 - [Моё портфолио](https://phantomhacker219.github.io/Portfolio/)
 
 
-# Hi, I'm Javokhir👋
+# Hi, I'm Javokhir 👋
 
 I'm a developer with experience in **HTML**, **CSS**, **JavaScript**, and **React JS**. I create dynamic web applications and strive to improve my skills in frontend development.
 
@@ -28,9 +28,10 @@ I'm a developer with experience in **HTML**, **CSS**, **JavaScript**, and **Reac
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) **React JS**
 
 ## 🌱 My Interests:
-- Learning English
-- Sports
-- Trading
+- ![Education](https://img.shields.io/badge/Education-4CAF50?style=flat&logo=education&logoColor=white) **Learning English**
+- ![Sports](https://img.shields.io/badge/Sports-FF6F61?style=flat&logo=fitness&logoColor=white) **Sports**
+- ![Trading](https://img.shields.io/badge/Trading-4B9CD3?style=flat&logo=tradingview&logoColor=white) **Trading**
 
 ## 📍 My Project:
 - [My Portfolio](https://phantomhacker219.github.io/Portfolio/)
+
