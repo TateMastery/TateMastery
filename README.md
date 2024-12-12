@@ -1,20 +1,21 @@
 # Привет, я Жавохир 👋
 
-Я разработчик с опытом работы с **HTML**, **CSS**, **JavaScript** и **React JS**. Я создаю динамичные веб-приложения и стремлюсь развиваться в области frontend-разработки.
+Я разработчик с опытом работы с **HTML**, **CSS**, **JavaScript** и **React JS**. Я создаю динамичные веб-приложения и постоянно стремлюсь улучшать свои навыки в frontend-разработке.
 
 ## 💼 Мои навыки:
-- **HTML**, **CSS**, **JavaScript**
-- **React JS**
-- Адаптивный дизайн
-
+- ![HTML](https://img.shields.io/badge/HTML-FF5733?style=flat&logo=html5&logoColor=white) **HTML**
+- ![CSS](https://img.shields.io/badge/CSS-2965F1?style=flat&logo=css3&logoColor=white) **CSS**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) **React JS**
 
 ## 🌱 Мои интересы:
-- Изучение английского языка
-- Спорт
-- Трейдинг
+- ![English](https://media.giphy.com/media/3o6Zt6XoPrDFtP5V7G/giphy.gif) **Изучение английского языка**
+- ![Sports](https://media.giphy.com/media/xT1XGIm9OSRkTvhE7m/giphy.gif) **Спорт**
+- ![Trading](https://media.giphy.com/media/26FPOshpDFzV2EEdI/giphy.gif) **Трейдинг**
 
 ## 📍 Мой проект:
-- [Моё портфолио](https://phantomhacker219.github.io/Portfolio/)
+- [Мое портфолио](https://phantomhacker219.github.io/Portfolio/)
+
 
 
 # Hi, I'm Javokhir 👋
@@ -28,10 +29,9 @@ I'm a developer with experience in **HTML**, **CSS**, **JavaScript**, and **Reac
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) **React JS**
 
 ## 🌱 My Interests:
-- ![Education](https://img.shields.io/badge/Education-4CAF50?style=flat&logo=education&logoColor=white) **Learning English**
-- ![Sports](https://img.shields.io/badge/Sports-FF6F61?style=flat&logo=fitness&logoColor=white) **Sports**
-- ![Trading](https://img.shields.io/badge/Trading-4B9CD3?style=flat&logo=tradingview&logoColor=white) **Trading**
+- ![English](https://media.giphy.com/media/3o6Zt6XoPrDFtP5V7G/giphy.gif) **Learning English**
+- ![Sports](https://media.giphy.com/media/xT1XGIm9OSRkTvhE7m/giphy.gif) **Sports**
+- ![Trading](https://media.giphy.com/media/26FPOshpDFzV2EEdI/giphy.gif) **Trading**
 
 ## 📍 My Project:
 - [My Portfolio](https://phantomhacker219.github.io/Portfolio/)
-
