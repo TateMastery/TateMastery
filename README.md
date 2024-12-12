@@ -1,6 +1,8 @@
 # Hi, I'm **Javokhir** 👋
 
-I'm a developer with experience in **HTML**, **CSS**, **JavaScript**, and **React JS**. I create dynamic web applications and strive to improve my frontend development skills.
+I'm a passionate developer with experience in **HTML**, **CSS**, **JavaScript**, and **React JS**. I specialize in creating dynamic web applications and constantly strive to improve my skills.
+
+🔍 **I am actively looking for job opportunities** to grow professionally and contribute to exciting projects! If you are looking for a motivated and skilled developer, feel free to reach out to me.
 
 ## 💼 My Skills:
 - ![HTML](https://img.shields.io/badge/HTML-FF5733?style=flat&logo=html5&logoColor=white) **HTML**
@@ -9,19 +11,25 @@ I'm a developer with experience in **HTML**, **CSS**, **JavaScript**, and **Reac
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) **React JS**
 
 ## 🌱 My Interests:
-- ![English](https://img.shields.io/badge/Learning%20English-3EABFF?style=flat&logo=language&logoColor=white) **Learning English**
-- ![Sports](https://img.shields.io/badge/Sports-0C9C00?style=flat&logo=fitness&logoColor=white) **Sports**
-- ![Trading](https://img.shields.io/badge/Trading-FFA500?style=flat&logo=tradingview&logoColor=white) **Trading**
+- ![English](https://img.shields.io/badge/English-0080FF?style=flat&logo=language&logoColor=white) **Learning English**
+- ![Gym](https://img.shields.io/badge/Gym-FF4F58?style=flat&logo=gym&logoColor=white) **Sport**
+- ![Bitcoin](https://img.shields.io/badge/Bitcoin-F2A900?style=flat&logo=bitcoin&logoColor=white) ** Trading**
 
 ## 📍 My Project:
 - [My Portfolio](https://phantomhacker219.github.io/Portfolio/)
+
+## 📬 Contact Me:
+- Email: **jbrodi766@gmail.com** 
+
 
 
 
 
 # Привет, я **Жавохир** 👋
 
-Я разработчик с опытом работы с **HTML**, **CSS**, **JavaScript** и **React JS**. Я создаю динамичные веб-приложения и постоянно стремлюсь улучшать свои навыки в frontend-разработке.
+Я разработчик с опытом работы с **HTML**, **CSS**, **JavaScript** и **React JS**. Я создаю динамичные веб-приложения и постоянно стремлюсь улучшать свои навыки.
+
+🔍 **Я активно ищу работу** и готов развиваться в новых проектах! Если вы ищете мотивированного и талантливого разработчика, не стесняйтесь связаться со мной.
 
 ## 💼 Мои навыки:
 - ![HTML](https://img.shields.io/badge/HTML-FF5733?style=flat&logo=html5&logoColor=white) **HTML**
@@ -30,10 +38,12 @@ I'm a developer with experience in **HTML**, **CSS**, **JavaScript**, and **Reac
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) **React JS**
 
 ## 🌱 Мои интересы:
-- ![English](https://img.shields.io/badge/Learning%20English-0080FF?style=flat&logo=language&logoColor=white) **Изучение английского языка**
-- ![Sports](https://img.shields.io/badge/Sports-009688?style=flat&logo=fitness&logoColor=white) **Спорт**
-- ![Trading](https://img.shields.io/badge/Trading-FF9800?style=flat&logo=tradingview&logoColor=white) **Трейдинг**
-
+- ![English](https://img.shields.io/badge/English-0080FF?style=flat&logo=language&logoColor=white) **Изучение английского языка**
+- ![Gym](https://img.shields.io/badge/Gym-FF4F58?style=flat&logo=gym&logoColor=white) **Спорт**
+- ![Bitcoin](https://img.shields.io/badge/Bitcoin-F2A900?style=flat&logo=bitcoin&logoColor=white) **Трейдинг**
+- 
 ## 📍 Мой проект:
 - [Мое портфолио](https://phantomhacker219.github.io/Portfolio/)
 
+## 📬 Связаться со мной:
+- Email: **jbrodi766@gmail.com** 
