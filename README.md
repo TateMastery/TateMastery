@@ -17,14 +17,15 @@
 - [Моё портфолио](https://phantomhacker219.github.io/Portfolio/)
 
 
-# Hi, I'm Javokhir 👋
+# Hi, I'm Javokhir👋
 
 I'm a developer with experience in **HTML**, **CSS**, **JavaScript**, and **React JS**. I create dynamic web applications and strive to improve my skills in frontend development.
 
 ## 💼 My Skills:
-- **HTML**, **CSS**, **JavaScript**
-- **React JS**
-- Responsive design
+- ![HTML](https://img.shields.io/badge/HTML-FF5733?style=flat&logo=html5&logoColor=white) **HTML**
+- ![CSS](https://img.shields.io/badge/CSS-2965F1?style=flat&logo=css3&logoColor=white) **CSS**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) **React JS**
 
 ## 🌱 My Interests:
 - Learning English
