@@ -43,7 +43,7 @@ I'm a passionate developer with experience in **HTML**, **CSS**, **JavaScript**,
 - ![Bitcoin](https://img.shields.io/badge/Bitcoin-F2A900?style=flat&logo=bitcoin&logoColor=white) **Трейдинг**
 - 
 ## 📍 Мой проект:
-- [Мое портфолио](https://TateMastery.github.io/Portfolio/)
+- [Мое портфолио](https://tatemastery.github.io/Portfolio/)
 
 ## 📬 Связаться со мной:
 - Email: **jbrodi766@gmail.com** 
