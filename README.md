@@ -1,51 +1,73 @@
-<h1 align="center">TateMastery</h1>
+<h1 align="center">🔥 TateMastery 🔥</h1>
 <p align="center">
-  Frontend Developer • Focused • Consistent
+  <img src="https://media.giphy.com/media/hp3dmE8MHi9XO/giphy.gif" width="200"/>
 </p>
+<p align="center"><b>Frontend Developer | Discipline First | Built Different</b></p>
 
 ---
 
-## 🧑‍💻 Обо мне
+## 🧠 Кто я
 
-- Работаю с HTML, CSS, JavaScript и React JS  
-- Создаю простые, быстрые и рабочие интерфейсы  
-- Каждый день прокачиваю навыки — без оправданий
+```js
+const developer = {
+  name: "TateMastery",
+  stack: ["HTML", "CSS", "JavaScript", "React"],
+  motto: "Code. Improve. Repeat.",
+  status: "Grinding daily, zero excuses",
+}
+```
 
----
+<h1 align="center">🚀 Проекты</h1>
 
-## 🔧 Технологии
+1) Four Aspects
+   Стек: HTML, CSS, JS
+   Демо: https://tatemastery.github.io/Four_Aspects/
+   Репозиторий: https://github.com/TateMastery/Four_Aspects
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+2) Tasklist
+   Стек: React JS
+   Демо: https://tatemastery.github.io/Tasklist/
+   Репозиторий: https://github.com/TateMastery/Tasklist
 
----
+3) Weather App
+   Стек: JavaScript + API
+   Демо: https://tatemastery.github.io/Weather-Program/
+   Репозиторий: https://github.com/TateMastery/Weather-Program
 
-## 📂 Проекты
+4) Fastech Landing Page
+   Стек: HTML, CSS, JS
+   Демо: https://tatemastery.github.io/Fastech/
+   Репозиторий: https://github.com/TateMastery/Fastech
 
-| Название         |                            | Ссылки                                               |
-|---------------------------|--------------------------------------------------------------------------|
-| **Four Aspects**            | [Демо](https://tatemastery.github.io/Four_Aspects/) / [Код](https://github.com/TateMastery/Four_Aspects) |
-| **Tasklist**                | [Демо](https://tatemastery.github.io/Tasklist/) / [Код](https://github.com/TateMastery/Tasklist)         |
-| **Weather App**             | [Демо](https://tatemastery.github.io/Weather-Program/) / [Код](https://github.com/TateMastery/Weather-Program) |
-| **Fastech**                 | [Демо](https://tatemastery.github.io/Fastech/) / [Код](https://github.com/TateMastery/Fastech)             |
+   <h1 align="center">📊 GitHub Статистика</h1>
 
----
+- Кол-во репозиториев: 10+
+- Основной стек: Frontend
+- Активность: ежедневная работа над кодом
+- Фокус: реальные проекты, не демки для лайков
+- Упор: качество, читаемость, рабочий результат
+- Цель: устроиться, накопить капитал и вырваться вперёд
 
-## 📈 Статистика
+   <h1 align="center">🛠️ Технологии</h1>
+   
+- HTML5
+- CSS3 (Flexbox, Grid, анимации)
+- JavaScript (ES6+)
+- React JS (хуки, компоненты, JSX)
+- Git (ветвление, коммиты, GitHub)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TateMastery&show_icons=true&theme=default&hide_title=true&hide_border=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TateMastery&theme=default&hide_border=true" width="47%"/>
-</p>
+   <h1 align="center">⚔️ Принципы</h1>
 
----
+- Без нытья — только действия
+- Каждый день — возможность стать сильнее
+- Результат — твой единственный аргумент
+- Прокачка — как чистка зубов: без неё ты воняешь
 
-## 📬 Контакты
+   <h1 align="center">📬 Контакты</h1>
 
-- **Email:** jbrodi766@gmail.com  
-- **Telegram:** [@phantom_assasin7](https://t.me/phantom_assasin7)
+   Email: jbrodi766@gmail.com
+Telegram: @phantom_assasin7
 
----
+
+<p align="center"> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/> </p> ```
+
