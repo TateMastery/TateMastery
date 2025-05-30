@@ -24,6 +24,22 @@ const developer = {
 }
 ```
 
+---
+
+## 💼 Currently Looking for New Opportunities
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Looking for job" width="100" />
+</p>
+
+<p align="center" style="font-size:18px; font-weight:bold; color:#ff4500;">
+  Actively seeking frontend developer roles. Ready to crush tasks and add value to your team!
+</p>
+
+---
+
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd2amx6N3NhNWh6OWZvYzZtOGVwcXhnOGMzZTM4MmlxcjdybWtxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pUVOeIagS1rrqsYQJe/giphy.gif" alt="Coding flow" width="200" />
 </p>
