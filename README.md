@@ -1,12 +1,15 @@
-<h1 align="center">🔥 TateMastery 🔥</h1>
+
+<h1 align="center">🔥🔥 TateMastery 🔥🔥</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Fire animation" width="100" />
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding animation" width="100" />
-  <img src="https://media.giphy.com/media/3o7aD6nRbBiR3GGn7W/giphy.gif" alt="Rocket launch" width="100" />
+  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="🔥 Fire animation" width="120" style="margin-right:10px;" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Code typing" width="120" />
+  <img src="https://media.giphy.com/media/3o7aD4qEjON54fNsA0/giphy.gif" alt="Rocket launch" width="120" style="margin-left:10px;" />
 </p>
 
-<p align="center"><b>Frontend Developer | Discipline First | Built Different</b></p>
+<p align="center">
+  <b style="font-size:18px;">Frontend Developer | Discipline First | Built Different</b>
+</p>
 
 ---
 
@@ -18,49 +21,90 @@ const developer = {
   stack: ["HTML", "CSS", "JavaScript", "React"],
   motto: "Code. Improve. Repeat.",
   status: "Grinding daily, zero excuses",
-};```
----
+}
+```
 
 <p align="center">
   <img src="https://media.giphy.com/media/26xBMuIVkdFVeR6E0/giphy.gif" alt="Coding flow" width="200" />
 </p>
 
 ---
-🚀 Projects
 
-1. Four Aspects
+## 🚀 Projects
 
-Stack: HTML, CSS, JSLive Demo: Check it outRepo: GitHub Repo
+### 1. Four Aspects  
+**Stack:** HTML, CSS, JS  
+**Live Demo:** [🔥 Check it out](https://tatemastery.github.io/Four_Aspects/)  
+**Repo:** [GitHub Repo](https://github.com/TateMastery/Four_Aspects)  
+<p align="center"><img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Project gif" width="150"/></p>
 
-2. Tasklist
+### 2. Tasklist  
+**Stack:** HTML, CSS, JS  
+**Live Demo:** [Try it here](https://tatemastery.github.io/Tasklist/)  
+**Repo:** [GitHub Repo](https://github.com/TateMastery/Tasklist)  
+<p align="center"><img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Task done" width="150"/></p>
 
-Stack: HTML, CSS, JSLive Demo: Try it hereRepo: GitHub Repo
+### 3. Weather App  
+**Stack:** JavaScript + API  
+**Live Demo:** [See live](https://tatemastery.github.io/Weather-Program/)  
+**Repo:** [GitHub Repo](https://github.com/TateMastery/Weather-Program)  
+<p align="center"><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Weather" width="150"/></p>
 
-3. Weather App
+### 4. Fastech Landing Page  
+**Stack:** HTML, CSS, JS  
+**Live Demo:** [Landing page](https://tatemastery.github.io/Fastech/)  
+**Repo:** [GitHub Repo](https://github.com/TateMastery/Fastech)  
+<p align="center"><img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Landing page" width="150"/></p>
 
-Stack: JavaScript + APILive Demo: See liveRepo: GitHub Repo
+---
 
-4. Fastech Landing Page
+## 📊 GitHub Stats
 
-Stack: HTML, CSS, JSLive Demo: Landing pageRepo: GitHub Repo
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TateMastery&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
-📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TateMastery&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
-🛠️ Technologies
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="Stats hype" width="250"/>
+</p>
 
-⚔️ Principles
+---
 
-❌ No excuses — just execution
+## 🛠️ Technologies
 
-💪 Discipline over motivation
+<div align="center">
+  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" />
+  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" />
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" />
+  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" />
+  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" />
+</div>
 
-📈 Grow daily or decay slowly
+<p align="center">
+  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" alt="Tech magic" width="300" />
+</p>
 
-🚫 No validation needed — results are proof
+---
 
-🧠 Self-improvement is survival
+## ⚔️ Principles
 
-📬 Contact
+- ❌ No excuses — just execution  
+- 💪 Discipline over motivation  
+- 📈 Grow daily or decay slowly  
+- 🚫 No validation needed — results are proof  
+- 🧠 Self-improvement is survival  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Discipline" width="200" />
+</p>
+
+---
+
+## 📬 Contact Me
 
 <p align="center">
   <a href="mailto:jbrodi766@gmail.com"><img src="https://img.shields.io/badge/Email-jbrodi766%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -71,3 +115,5 @@ Stack: HTML, CSS, JSLive Demo: Landing pageRepo: GitHub Repo
   <img src="https://media.giphy.com/media/l3vR9O9OZlh0ZIfFu/giphy.gif" alt="Contact hype" width="300" />
 </p>
 ```
+
+---
