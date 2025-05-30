@@ -82,7 +82,7 @@ const developer = {
 
 ---
 
-## Core Principles
+## ⚔️ Core Principles
 
 - ❌ No excuses — only execution  
 - 💪 Discipline beats motivation every damn day  
