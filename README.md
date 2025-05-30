@@ -1,7 +1,7 @@
 <h1 align="center">🔥🔥 TateMastery 🔥🔥</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Code typing" width="120" />
+  <img src="https://media.giphy.com/media/l3vR9OQ0u1Gf2V1zW/giphy.gif" alt="Slick coding flow" width="140" />
 </p>
 
 <p align="center">
@@ -23,15 +23,15 @@ const developer = {
 
 ---
 
-## 💼 Actively Hunting for Frontend Dev Roles
+## 💼 No Bullshit — Ready to Deliver Results
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Looking for job" width="100" />
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy-downsized.gif" alt="Focused coder" width="110" />
 </p>
 
-<p align="center" style="font-size:18px; font-weight:bold; color:#ff3300;">
-  I’m not here to waste time — I’m ready to smash bugs, build killer features, and push projects forward.  
-  Looking for a team that values discipline, results, and relentless hustle.
+<p align="center" style="font-size:18px; font-weight:bold; color:#d32f2f;">
+  No bullshit. No distractions. I’m here to smash deadlines, fix bugs, and push your product to the next level.  
+  If you want excuses, look elsewhere — I deliver results. Ready to join a team that respects discipline and execution.
 </p>
 
 ---
@@ -72,6 +72,18 @@ const developer = {
 
 ---
 
+## 💻 Skills
+
+- VSCode — razor-sharp coding environment  
+- Chrome DevTools — debug like a boss  
+- Git & GitHub — version control on point  
+- ESLint — clean and consistent code  
+- REST APIs — consume and integrate like a pro  
+- Responsive Design — mobile-first, always  
+- Basic UI/UX principles — users first  
+
+---
+
 ## ⚔️ My Code Philosophy
 
 - ❌ No excuses — only execution  
@@ -89,3 +101,4 @@ const developer = {
   <a href="https://t.me/phantom_assasin7"><img src="https://img.shields.io/badge/Telegram-%40phantom_assasin7-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 ```
+
