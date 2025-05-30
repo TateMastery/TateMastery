@@ -2,9 +2,9 @@
 <h1 align="center">🔥🔥 TateMastery 🔥🔥</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="🔥 Fire animation" width="120" style="margin-right:10px;" />
+
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Code typing" width="120" />
-  <img src="https://media.giphy.com/media/3o7aD4qEjON54fNsA0/giphy.gif" alt="Rocket launch" width="120" style="margin-left:10px;" />
+
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ const developer = {
 ```
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47605zyezzj65es3mw2g1bbcprz33utefvsgn3bbad&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding flow" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd2amx6N3NhNWh6OWZvYzZtOGVwcXhnOGMzZTM4MmlxcjdybWtxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pUVOeIagS1rrqsYQJe/giphy.gif" alt="Coding flow" width="200" />
 </p>
 
 ---
