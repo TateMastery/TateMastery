@@ -23,7 +23,7 @@ const developer = {
 
 ---
 
-## 💼 No Bullshit — Ready to Deliver Results
+## No excuses — ready to deliver results
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy-downsized.gif" alt="Focused coder" width="110" />
@@ -76,15 +76,13 @@ const developer = {
 
 - VSCode — razor-sharp coding environment  
 - Chrome DevTools — debug like a boss  
-- Git & GitHub — version control on point  
-- ESLint — clean and consistent code  
 - REST APIs — consume and integrate like a pro  
 - Responsive Design — mobile-first, always  
 - Basic UI/UX principles — users first  
 
 ---
 
-## ⚔️ My Code Philosophy
+## Core Principles
 
 - ❌ No excuses — only execution  
 - 💪 Discipline beats motivation every damn day  
