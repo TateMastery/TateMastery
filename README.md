@@ -1,6 +1,6 @@
 <h1 align="center">🔥 TateMastery 🔥</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/hp3dmE8MHi9XO/giphy.gif" width="200"/>
+  <img src="[https://media.giphy.com/media/hp3dmE8MHi9XO/giphy.gif](https://media.giphy.com/media/MvVA4XUSq4ZF77s8zH/giphy.gif?cid=ecf05e470i3no6zz1qcggt2jxodx6pqvkace7af4bcpbfa9q&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="200"/>
 </p>
 <p align="center"><b>Frontend Developer | Discipline First | Built Different</b></p>
 
@@ -69,5 +69,5 @@ const developer = {
 Telegram: @phantom_assasin7
 
 
-<p align="center"> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/> </p> ```
+<p align="center"> <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://tenor.com/bEX1l.gif)" width="300"/> </p> ```
 
