@@ -26,7 +26,7 @@ const developer = {
 **Repo:** https://github.com/TateMastery/Four_Aspects
 
 ### 2. Tasklist  
-**Stack:** React JS  
+**Stack:** HTML, CSS, JS  
 **Live Demo:** https://tatemastery.github.io/Tasklist/  
 **Repo:** https://github.com/TateMastery/Tasklist
 
