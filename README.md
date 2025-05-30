@@ -25,7 +25,7 @@ const developer = {
 ```
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBMuIVkdFVeR6E0/giphy.gif" alt="Coding flow" width="200" />
+  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47605zyezzj65es3mw2g1bbcprz33utefvsgn3bbad&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding flow" width="200" />
 </p>
 
 ---
@@ -42,35 +42,23 @@ const developer = {
 **Stack:** HTML, CSS, JS  
 **Live Demo:** [Try it here](https://tatemastery.github.io/Tasklist/)  
 **Repo:** [GitHub Repo](https://github.com/TateMastery/Tasklist)  
-<p align="center"><img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Task done" width="150"/></p>
+<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNiaW0wcW9kdHFkcWh0bDl5dWhndHN2eTQ5dHVxaWpyZzRwNjM5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" alt="Task done" width="150"/></p>
 
 ### 3. Weather App  
 **Stack:** JavaScript + API  
 **Live Demo:** [See live](https://tatemastery.github.io/Weather-Program/)  
 **Repo:** [GitHub Repo](https://github.com/TateMastery/Weather-Program)  
-<p align="center"><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Weather" width="150"/></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd2amx6N3NhNWh6OWZvYzZtOGVwcXhnOGMzZTM4MmlxcjdybWtxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fl3jw1xFrpmxGUrWzS/giphy.gif" alt="Weather" width="150"/></p>
 
 ### 4. Fastech Landing Page  
 **Stack:** HTML, CSS, JS  
 **Live Demo:** [Landing page](https://tatemastery.github.io/Fastech/)  
 **Repo:** [GitHub Repo](https://github.com/TateMastery/Fastech)  
-<p align="center"><img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Landing page" width="150"/></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd2amx6N3NhNWh6OWZvYzZtOGVwcXhnOGMzZTM4MmlxcjdybWtxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/51AhgeKNAamtcmcpGx/giphy.gif" alt="Landing page" width="150"/></p>
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TateMastery&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TateMastery&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="Stats hype" width="250"/>
-</p>
 
 ---
 
@@ -98,9 +86,8 @@ const developer = {
 - 🚫 No validation needed — results are proof  
 - 🧠 Self-improvement is survival  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Discipline" width="200" />
-</p>
+
+
 
 ---
 
@@ -112,7 +99,7 @@ const developer = {
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR9O9OZlh0ZIfFu/giphy.gif" alt="Contact hype" width="300" />
+
 </p>
 ```
 
