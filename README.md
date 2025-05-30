@@ -19,8 +19,10 @@ const developer = {
   motto: "Code. Improve. Repeat.",
   status: "Grinding daily, zero excuses",
 }
+```
 
 ---
+
 ## 💼 Actively Hunting for Frontend Dev Roles
 
 <p align="center">
