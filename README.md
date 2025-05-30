@@ -73,7 +73,7 @@ const developer = {
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" alt="Tech magic" width="300" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNiaW0wcW9kdHFkcWh0bDl5dWhndHN2eTQ5dHVxaWpyZzRwNjM5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" alt="Tech magic" width="300" />
 </p>
 
 ---
