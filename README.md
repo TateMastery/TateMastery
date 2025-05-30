@@ -19,6 +19,7 @@ const developer = {
   motto: "Code. Improve. Repeat.",
   status: "Grinding daily, zero excuses",
 };```
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/26xBMuIVkdFVeR6E0/giphy.gif" alt="Coding flow" width="200" />
