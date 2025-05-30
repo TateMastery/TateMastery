@@ -36,25 +36,25 @@ const developer = {
 **Stack:** HTML, CSS, JS  
 **Live Demo:** [🔥 Check it out](https://tatemastery.github.io/Four_Aspects/)  
 **Repo:** [GitHub Repo](https://github.com/TateMastery/Four_Aspects)  
-<p align="center"><img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Project gif" width="150"/></p>
+
 
 ### 2. Tasklist  
 **Stack:** HTML, CSS, JS  
 **Live Demo:** [Try it here](https://tatemastery.github.io/Tasklist/)  
 **Repo:** [GitHub Repo](https://github.com/TateMastery/Tasklist)  
-<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNiaW0wcW9kdHFkcWh0bDl5dWhndHN2eTQ5dHVxaWpyZzRwNjM5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" alt="Task done" width="150"/></p>
+
 
 ### 3. Weather App  
 **Stack:** JavaScript + API  
 **Live Demo:** [See live](https://tatemastery.github.io/Weather-Program/)  
 **Repo:** [GitHub Repo](https://github.com/TateMastery/Weather-Program)  
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd2amx6N3NhNWh6OWZvYzZtOGVwcXhnOGMzZTM4MmlxcjdybWtxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fl3jw1xFrpmxGUrWzS/giphy.gif" alt="Weather" width="150"/></p>
+
 
 ### 4. Fastech Landing Page  
 **Stack:** HTML, CSS, JS  
 **Live Demo:** [Landing page](https://tatemastery.github.io/Fastech/)  
 **Repo:** [GitHub Repo](https://github.com/TateMastery/Fastech)  
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd2amx6N3NhNWh6OWZvYzZtOGVwcXhnOGMzZTM4MmlxcjdybWtxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/51AhgeKNAamtcmcpGx/giphy.gif" alt="Landing page" width="150"/></p>
+
 
 ---
 
