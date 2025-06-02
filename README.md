@@ -21,12 +21,16 @@ const developer = {
 }
 ```
 
+<p align="center">
+  <img src="https://media.giphy.com/media/1BXa2alBjrCXC/giphy.gif" alt="Brainstorming" width="120" />
+</p>
+
 ---
 
 ## No excuses — ready to deliver results
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy-downsized.gif" alt="Focused coder" width="110" />
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Focused coder" width="110" />
 </p>
 
 <p align="center" style="font-size:18px; font-weight:bold; color:#d32f2f;">
@@ -37,6 +41,10 @@ const developer = {
 ---
 
 ## 🚀 Projects
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Rocket Launch" width="120" />
+</p>
 
 ### 1. Four Aspects  
 **Stack:** HTML, CSS, JS  
@@ -70,6 +78,10 @@ const developer = {
   <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" />
 </div>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Tools in action" width="120" />
+</p>
+
 ---
 
 ## 💻 Skills
@@ -83,6 +95,10 @@ const developer = {
 ---
 
 ## ⚔️ Core Principles
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD6TdY9bXxPEV2o/giphy.gif" alt="Discipline warrior" width="130" />
+</p>
 
 - ❌ No excuses — only execution  
 - 💪 Discipline beats motivation every damn day  
@@ -99,4 +115,3 @@ const developer = {
   <a href="https://t.me/phantom_assasin7"><img src="https://img.shields.io/badge/Telegram-%40phantom_assasin7-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 ```
-
