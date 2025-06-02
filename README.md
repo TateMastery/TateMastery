@@ -74,7 +74,7 @@ const developer = {
 - **Git & GitHub** — version control like a boss  
 
 <p align="center"> 
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hyeDB3bDRnbmcxNThzMjBlbTB2eDdkeHFhM2g4OHJqNGRjM3BkaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/93UOscPyDH8cdRfSaT/giphy.gif" width="500"/>
 </p>
 
 ---
@@ -105,7 +105,7 @@ const developer = {
 </p>
 
 <p align="center"> 
-  <img src="https://media.giphy.com/media/Hj7s2F6zE1I1m/giphy.gif" width="400" alt="No mercy" /> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVoOTJqcWMxdHZseW01MDhtMGUzdmN5d3pnMzUwNTR6M3dzMHduNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Zesu5VPNGJlm/giphy.gif" width="400" alt="No mercy" /> 
 </p>
 
 > “I don’t stop when I’m tired. I stop when I’m done.”
