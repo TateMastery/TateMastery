@@ -22,12 +22,26 @@ const developer = {
 ```
 ⚒️ Tech Stack
 <div align="center"> <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" /> <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" /> <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" /> <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" /> <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" /> </div>
-🚀 Projects
-Project	Stack	Live Demo	Repo
-Four Aspects	HTML, CSS, JS	Try it	GitHub
-Tasklist	HTML, CSS, JS	Live	Repo
-Weather App	JavaScript + API	Live	GitHub
-Fastech Landing Page	HTML, CSS, JS	Check here	Repo
+🚀 My Arsenal of Projects
+🔹 Four Aspects
+Stack: HTML CSS JavaScript
+⚙️ Minimalist landing page with meaningful design. Solid markup and smooth interactivity.
+📂 GitHub Repository
+
+🔹 Tasklist
+Stack: HTML CSS JavaScript
+⚙️ Task manager with local storage. Features filtering, deletion, and checkboxes.
+📂 GitHub Repository
+
+🔹 Weather App
+Stack: JavaScript, OpenWeather API
+⚙️ Real-time weather forecast app using API integration.
+📂 GitHub Repository
+
+🔹 Fastech Landing Page
+Stack: HTML CSS JavaScript
+⚙️ Modern landing page for products or startups. Clean sections, animations, fully responsive.
+📂 GitHub Repository
 
 
 🔥 Skills That Hit Hard
