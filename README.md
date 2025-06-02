@@ -26,23 +26,22 @@ const developer = {
 🔹 Four Aspects
 Stack: HTML CSS JavaScript
 ⚙️ Minimalist landing page with meaningful design. Solid markup and smooth interactivity.
-📂 GitHub Repository
+📂 GitHub Repo
 
 🔹 Tasklist
 Stack: HTML CSS JavaScript
 ⚙️ Task manager with local storage. Features filtering, deletion, and checkboxes.
-📂 GitHub Repository
+📂 GitHub Repo
 
 🔹 Weather App
 Stack: JavaScript, OpenWeather API
 ⚙️ Real-time weather forecast app using API integration.
-📂 GitHub Repository
+📂 GitHub Repo
 
 🔹 Fastech Landing Page
 Stack: HTML CSS JavaScript
 ⚙️ Modern landing page for products or startups. Clean sections, animations, fully responsive.
-📂 GitHub Repository
-
+📂 GitHub Repo
 
 🔥 Skills That Hit Hard
 VSCode — laser-focused dev workflow
@@ -60,17 +59,12 @@ Git & GitHub — version control like a boss
 <p align="center"> <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="500"/> </p>
 ⚔️ Core Principles
 ❌ No excuses — only execution
-
 💪 Discipline > Motivation
-
 📈 You grow or you decay
-
 🚫 Less talk, more action
-
 🧠 Self-improvement is survival
 
 <p align="center"> <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" /> </p>
 📬 Contact Me
-<p align="center"> <a href="mailto:jbrodi766@gmail.com"> <img src="https://img.shields.io/badge/Email-jbrodi766%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://t.me/phantom_assasin7"> <img src="https://img.shields.io/badge/Telegram-%40phantom_assasin7-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> </a> </p>
-<p align="center"> <img src="https://media.giphy.com/media/Hj7s2F6zE1I1m/giphy.gif" width="400" alt="No mercy" /> </p>
+<p align="center"> <a href="mailto:jbrodi766@gmail.com"> <img src="https://img.shields.io/badge/Email-jbrodi766%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://t.me/phantom_assasin7"> <img src="https://img.shields.io/badge/Telegram-%40phantom_assasin7-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> </a> </p> <p align="center"> <img src="https://media.giphy.com/media/Hj7s2F6zE1I1m/giphy.gif" width="400" alt="No mercy" /> </p>
 “I don’t stop when I’m tired. I stop when I’m done.”
