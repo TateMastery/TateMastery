@@ -20,6 +20,7 @@ const developer = {
   status: "Grinding daily, zero excuses",
 }
 
+```
 <p align="center"> <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Coding fast" width="120" /> </p>
 No excuses — ready to deliver results
 <p align="center"> <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Focused coding" width="110" /> </p> <p align="center" style="font-size:18px; font-weight:bold; color:#d32f2f;"> No bullshit. No distractions. I’m here to smash deadlines, fix bugs, and push your product to the next level. If you want excuses, look elsewhere — I deliver results. Ready to join a team that respects discipline and execution. </p>
