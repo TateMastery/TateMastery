@@ -64,6 +64,14 @@ const developer = {
 
 ---
 
+## 💼 Currently Looking For Job
+
+<p align="center" style="font-size:18px; font-weight:bold; color:#FF4500;">
+  I'm actively hunting for frontend developer opportunities! <br />
+  If you want a disciplined, hungry coder who delivers — let's talk!  
+</p>
+
+
 ## 🔥 Skills That Hit Hard
 
 - **VSCode** — laser-focused dev workflow  
